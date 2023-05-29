@@ -34,15 +34,8 @@ const Welcome: React.FC = () => {
           `}
           </PreNameMobile>
         </PreWrapper>
-        <div>Hey there, A battle with daemons portfolio. (Version 1.3.1)</div>
         <Seperator>----</Seperator>
-        <div>
-          This project's source code can be found in this project's{" "}
-          <Link href="https://github.com/satnaing/terminal-portfolio">
-            GitHub repo
-          </Link>
-          .
-        </div>
+        <div>There is no place like 127.0.0.1 (Version 0.0.2)</div>
         <Seperator>----</Seperator>
         <div>
           For a list of available commands, type `<Cmd>help</Cmd>`.
@@ -51,14 +44,16 @@ const Welcome: React.FC = () => {
       <div className="illu-section">
         <PreImg>
           {`
- _______________________ 
- < Why are you here ?  >
-  ----------------------- 
-             ^__^
-             (==)\\~_______
-             (__)\\       )\\/
-                 ||----w||
-                 ||     ||
+        ____  
+       /___/\\__
+      _\\   \\/_/\\__
+    __\\       \\/_/\\
+    \\   __    __ \\ \\
+   __\\  \\_\\   \\_\\ \\ \\   __ 
+  /_/\\   __   __   \\ \\_/_/\\
+  \\_\\/_\\__\\/\\__\\/\\__\\/_\\_\\/
+     \\_\\/_/\\       /_\\_\\/
+        \\_\\/       \\_\\/                  
          `}
         </PreImg>
       </div>
